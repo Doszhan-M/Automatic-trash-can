@@ -1,1 +1,1 @@
-# Automatic-trash-can
+# Automatic_trash_can
