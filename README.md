@@ -1,12 +1,12 @@
 # Automatic_trash_can
 
-<img src="https://s1.hostingkartinok.com/uploads/images/2021/07/93f110d31b9a9fa9cc6fdb65fb78ca23.jpg" width="300">
+<img src="https://c.radikal.ru/c08/2107/c8/9c4725ceec29.jpg" width="300">
 
 Автоматическое мусорное ведро на arduino
 
 Схема подключения:
 
-<img src="https://s1.hostingkartinok.com/uploads/images/2021/07/42191fb7d31c6391d0023a34d49641e9.jpg" width="300">
+<img src="https://d.radikal.ru/d09/2107/6f/7c18bf8cb310.jpg" width="300">
 
 
 [Ссылка на видео](https://www.youtube.com/watch?v=TGKO33SQMXA)
